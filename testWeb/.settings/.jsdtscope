@@ -8,6 +8,6 @@
 			<attribute name="hide" value="true  是对方是否00001"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary2343434"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
